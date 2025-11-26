@@ -1,3 +1,3 @@
 # rajathnn
 My first git repo
-Author:Rajath
+Author:Rajath N N
